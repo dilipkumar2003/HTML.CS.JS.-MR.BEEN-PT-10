@@ -1,0 +1,42 @@
+.image{
+    height: 500px;
+    width: 500px;
+    margin-left: 600px;
+    margin-top: 100px;
+    position: fixed;
+}
+.eye1{
+    width: 70px;
+    height: 85px;
+    background-color: white;
+    margin-left: 860px;
+    margin-top: 285px;
+    border-radius: 100%;
+    position: fixed;
+    border: 3px solid black;
+    
+}
+.eye2{
+    width: 70px;
+    height: 85px;
+    background-color: white;
+    margin-left: 952px;
+    margin-top: 285px;
+    border-radius: 100%;
+    position: fixed;
+    border: 3px solid black;
+}
+.ball{
+    width: 15px;
+    height: 15px;
+    background-color: black;
+    margin-top: 5px;
+    margin-left: -1px;
+    border-radius: 150px 150px 150px 150px;
+    position: absolute;
+}
+.name{
+   margin-top: 0px;
+   margin-left: 610px;
+   position: fixed;
+}
